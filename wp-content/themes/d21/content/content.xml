@@ -1,0 +1,115 @@
+<site>
+ <posts />
+ <pages>
+  <page author="" caption="Начало" dateModified="09/15/2015 00:24:44" description="" keywords="" metaTags="" name="начало" path="/начало" showInHmenu="True" showInVmenu="True" showTitle="False" title="Начало" titleInBrowser="Начало">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 { color: #404040; background: ; padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 10px; vertical-align: top;  }
+.content .postcontent-0 .layout-item-1 { padding: 0px;  }
+.content .postcontent-0 .layout-item-2 { padding-right: 10px;padding-left: 10px;  }
+.content .postcontent-0 .layout-item-3 { margin-right: 10px;margin-left: 10px;  }
+.content .postcontent-0 .layout-item-4 { border-right-style:Solid;border-right-width:4px;border-right-color:#FFFFFF; color: #404040; background: ; padding: 0px;  }
+.content .postcontent-0 .layout-item-5 { color: #E3E3E3; background: #E50017; padding: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-0" style="width: 33%" &gt;
+        &lt;div class="grad1" style="height: 222px"&gt;&lt;h5&gt;КОМАНДА&amp;nbsp;В БИЗНЕСЕ&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;a href="#" class="button"&gt;читать далее...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-1" style="width: 67%" &gt;
+        &lt;img width="374" height="260" alt="" class="lightbox" src="./images/adv-vk.jpg" style="float: right; "&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;Turpis fusce turpis praesent class augue nunc rhoncus. Non aliquam id viverra magna nunc libero nullam fusce euismod ut iaculis aliquet mattis venenatis scelerisque. Odio pharetra sed rhoncus a turpis viverra lacus curabitur a cras. Lacus nulla a ante egestas.&lt;/p&gt;&lt;p&gt;Tortor praesent eu mi eu cursus fringilla ultrices pulvinar morbi. Convallis nisi feugiat etiam enim hendrerit. Tortor faucibus gravida massa sagittis libero odio egestas sagittis diam. Hendrerit nibh pulvinar et libero phasellus ligula sed.&lt;/p&gt;&lt;p&gt;Nunc et sit pede ante adipiscing ac. Dui suscipit lacinia. Pulvinar id quis mollis ut ipsum volutpat nulla eu tincidunt amet ut erat. Dolor mi laoreet sagittis sem quisque vivamus suscipit et. Quisque vel aenean quis vestibulum ante vitae. Eget sit turpis suscipit mi tellus at. Dui dolor odio posuere rutrum sodales odio ut placerat augue. Elementum justo metus a nunc commodo velit sed. Nunc euismod ipsum orci sed quis posuere sed.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-layout-wrapper layout-item-3"&gt;
+&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-4" style="width: 50%" &gt;
+        &lt;div class="grad1"&gt;&lt;h4&gt;&lt;span style="color: #FFFFFF;"&gt;КОНЦЕПЦИЯ&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div style="padding:10px"&gt;&lt;p&gt;Praesent fermentum in pede hendrerit nullam euismod enim condimentum sed praesent. Fusce eros rhoncus.&lt;/p&gt;&lt;p&gt;Fusce praesent nec faucibus laoreet nec mi. Orci pellentesque sed dolor vitae mi ut bibendum quis. Condimentum eget nec massa cursus pede pellentesque vulputate eu.&lt;/p&gt;&lt;p&gt;Fames blandit eros in lacinia pellentesque sed lorem quam neque lectus est tempor.&lt;/p&gt;&lt;p&gt;Vivamus primis sapien posuere in pellentesque tincidunt lobortis.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="button"&gt;Читать далее »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-5" style="width: 50%" &gt;
+        &lt;div class="grad2"&gt;&lt;h4&gt;&lt;span style="color: #E50017;"&gt;Функции&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div style="padding:10px"&gt;&lt;p&gt;Id ligula nullam felis turpis hendrerit orci nunc elit turpis augue egestas orci ac. Molestie odio lacus. Tincidunt venenatis ante pharetra ac lacus.&lt;/p&gt;&lt;p&gt;Duis ultricies vulputate ac praesent fusce vivamus. Vivamus nullam turpis amet risus fames quis sed feugiat arcu eu. Bibendum nunc vestibulum eu ac curae proin fames eu in ipsum et hendrerit vel sem.&lt;/p&gt;&lt;p&gt;Adipiscing metus turpis tellus sapien nam eu senectus et tortor. In mi posuere primis hendrerit suscipit ligula dictum sed amet. Fusce lacinia dictum ut dui metus sit sed ac sagittis proin id in nec.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="button"&gt;Читать далее »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-0" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-1" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-layout-wrapper layout-item-3"&gt;
+&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-4" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-5" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="grad1" style="height: 222px"&gt;&lt;h5&gt;КОМАНДА&amp;nbsp;В БИЗНЕСЕ&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;a href="#" class="button"&gt;читать далее...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+     <content>&lt;img width="374" height="260" alt="" class="lightbox" src="adv-vk.jpg" style="float: right; "&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;</content>
+     <content>&lt;p&gt;Turpis fusce turpis praesent class augue nunc rhoncus. Non aliquam id viverra magna nunc libero nullam fusce euismod ut iaculis aliquet mattis venenatis scelerisque. Odio pharetra sed rhoncus a turpis viverra lacus curabitur a cras. Lacus nulla a ante egestas.&lt;/p&gt;&lt;p&gt;Tortor praesent eu mi eu cursus fringilla ultrices pulvinar morbi. Convallis nisi feugiat etiam enim hendrerit. Tortor faucibus gravida massa sagittis libero odio egestas sagittis diam. Hendrerit nibh pulvinar et libero phasellus ligula sed.&lt;/p&gt;&lt;p&gt;Nunc et sit pede ante adipiscing ac. Dui suscipit lacinia. Pulvinar id quis mollis ut ipsum volutpat nulla eu tincidunt amet ut erat. Dolor mi laoreet sagittis sem quisque vivamus suscipit et. Quisque vel aenean quis vestibulum ante vitae. Eget sit turpis suscipit mi tellus at. Dui dolor odio posuere rutrum sodales odio ut placerat augue. Elementum justo metus a nunc commodo velit sed. Nunc euismod ipsum orci sed quis posuere sed.&lt;/p&gt;</content>
+     <content>&lt;div class="grad1"&gt;&lt;h4&gt;&lt;span style="color: #FFFFFF;"&gt;КОНЦЕПЦИЯ&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div style="padding:10px"&gt;&lt;p&gt;Praesent fermentum in pede hendrerit nullam euismod enim condimentum sed praesent. Fusce eros rhoncus.&lt;/p&gt;&lt;p&gt;Fusce praesent nec faucibus laoreet nec mi. Orci pellentesque sed dolor vitae mi ut bibendum quis. Condimentum eget nec massa cursus pede pellentesque vulputate eu.&lt;/p&gt;&lt;p&gt;Fames blandit eros in lacinia pellentesque sed lorem quam neque lectus est tempor.&lt;/p&gt;&lt;p&gt;Vivamus primis sapien posuere in pellentesque tincidunt lobortis.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="button"&gt;Читать далее »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+     <content>&lt;div class="grad2"&gt;&lt;h4&gt;&lt;span style="color: #E50017;"&gt;Функции&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div style="padding:10px"&gt;&lt;p&gt;Id ligula nullam felis turpis hendrerit orci nunc elit turpis augue egestas orci ac. Molestie odio lacus. Tincidunt venenatis ante pharetra ac lacus.&lt;/p&gt;&lt;p&gt;Duis ultricies vulputate ac praesent fusce vivamus. Vivamus nullam turpis amet risus fames quis sed feugiat arcu eu. Bibendum nunc vestibulum eu ac curae proin fames eu in ipsum et hendrerit vel sem.&lt;/p&gt;&lt;p&gt;Adipiscing metus turpis tellus sapien nam eu senectus et tortor. In mi posuere primis hendrerit suscipit ligula dictum sed amet. Fusce lacinia dictum ut dui metus sit sed ac sagittis proin id in nec.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="button"&gt;Читать далее »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Контакты" dateModified="09/27/2012 13:35:05" description="" keywords="" metaTags="" name="контакты" path="/контакты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Контакты" titleInBrowser="Контакты">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;Amet imperdiet luctus quis scelerisque fermentum in at. Ante ultricies vitae phasellus nullam nec posuere lobortis cubilia neque ac a tellus ante dignissim odio augue.&lt;/p&gt;&lt;p&gt;Quisque sit suspendisse mi sagittis lobortis cras eget cursus per. Enim nonummy est suscipit.  In turpis a ullamcorper consectetuer ipsum posuere vitae viverra.  Ac in eget et venenatis mollis ut sem  etiam.&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight:bold;"&gt;КОНТАКТЫ&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Metus dis hendrerit orci eu.&lt;br&gt;  Главная Город, Country 12345-6789&lt;/p&gt;&lt;p&gt;Rhoncus ut cursus. &lt;br&gt;  Lobortis mi mi leo.&lt;/p&gt;&lt;p&gt;A.&lt;a href="#"&gt;http://www.domain.com&lt;br&gt;&lt;/a&gt;A.&lt;a href="#"&gt;email@domain.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Amet imperdiet luctus quis scelerisque fermentum in at. Ante ultricies vitae phasellus nullam nec posuere lobortis cubilia neque ac a tellus ante dignissim odio augue.&lt;/p&gt;&lt;p&gt;Quisque sit suspendisse mi sagittis lobortis cras eget cursus per. Enim nonummy est suscipit.  In turpis a ullamcorper consectetuer ipsum posuere vitae viverra.  Ac in eget et venenatis mollis ut sem  etiam.&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight:bold;"&gt;КОНТАКТЫ&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Metus dis hendrerit orci eu.&lt;br&gt;  Главная Город, Country 12345-6789&lt;/p&gt;&lt;p&gt;Rhoncus ut cursus. &lt;br&gt;  Lobortis mi mi leo.&lt;/p&gt;&lt;p&gt;A.&lt;a href="#"&gt;http://www.domain.com&lt;br&gt;&lt;/a&gt;A.&lt;a href="#"&gt;email@domain.com&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>
